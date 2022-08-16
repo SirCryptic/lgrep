@@ -101,7 +101,7 @@ echo -e '
 read -p "└─────► " file
 echo -e '
 ┌───────────────────────────────────────────────────────────────────┐
-│            Enter The Second File You Want To Search                           │
+│            Enter The Second File You Want To Search               │
 ├───────────────────────────────────────────────────────────────────┘'
 read -p "└─────► " file1
 clear
