@@ -24,3 +24,5 @@ version: lgrep Laf <tagname>
  # Foot Notes
 
 Why Did i make this? cos im lazy af thats why 🤣
+
+If you want to collab and pull requests feel free ✅😎
